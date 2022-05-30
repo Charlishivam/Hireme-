@@ -1,0 +1,223 @@
+[v-cloak]{
+    display: none;
+}
+#snackbar {
+  visibility: hidden;
+  min-width: 250px;
+  background-color: #33383d;
+  color: #fff;
+  text-align: center;
+  border-radius: 2px;
+  padding: 16px;
+  position: fixed;
+  z-index: 9999;
+  right: 10px;
+  font-size: 17px;
+  top: 49px;
+}
+
+#snackbar.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+  animation: fadein 0.5s, fadeout 0.5s 2.5s;
+}
+#snackbar.danger, #snackbar.error{
+  color: #ffffff;
+  background-color: #a00000;
+  border-color: #6f0000;
+}
+#snackbar.success{
+  color: #ffffff;
+  background-color: #5cb85c;
+  border-color: #2fa02f;
+}
+/*------ loader ------------*/
+
+@-webkit-keyframes fadein {
+    from {
+        top: 0;
+        opacity: 0;
+    }
+    to {
+        top: 49px;
+        opacity: 1;
+    }
+}
+
+@keyframes fadein {
+    from {
+        top: 0;
+        opacity: 0;
+    }
+    to {
+        top: 49px;
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeout {
+    from {
+        top: 49px;
+        opacity: 1;
+    }
+    to {
+        top: 0;
+        opacity: 0;
+    }
+}
+
+@keyframes fadeout {
+    from {
+        top: 49px;
+        opacity: 1;
+    }
+    to {
+        top: 0;
+        opacity: 0;
+    }
+}
+
+.clock {
+    position: absolute;
+    z-index: 9999;
+    display: inline-block;
+    top: -12px;
+    right: 0;
+    height: 60px;
+    width: 125px;
+    text-align: center;
+}
+
+@media(max-width: 767px) {
+    .clock {
+        top: -95px;
+    }
+    #genrate {
+        margin-bottom: 5rem;
+    }
+}
+
+div.span {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.timer {
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+    box-shadow: inset 0px 0px 0px 2px #fff;
+    border-radius: 50%;
+    position: relative;
+    margin: 38px auto 15px;
+    /* Not necessary- its only for layouting*/
+}
+
+.timer:after,
+.timer:before {
+    position: absolute;
+    content: "";
+    background-color: #fff;
+}
+
+.timer:after {
+    width: 22px;
+    height: 2px;
+    top: 24px;
+    left: 25px;
+    -webkit-transform-origin: 1px 1px;
+    -moz-transform-origin: 1px 1px;
+    transform-origin: 1px 1px;
+    -webkit-animation: minhand 2s linear infinite;
+    -moz-animation: minhand 2s linear infinite;
+    animation: minhand 2s linear infinite;
+}
+
+.timer:before {
+    width: 15px;
+    height: 2px;
+    top: 24px;
+    left: 25px;
+    -webkit-transform-origin: 1px 1px;
+    -moz-transform-origin: 1px 1px;
+    transform-origin: 1px 1px;
+    -webkit-animation: hrhand 8s linear infinite;
+    -moz-animation: hrhand 8s linear infinite;
+    animation: hrhand 8s linear infinite;
+}
+
+@-webkit-keyframes minhand {
+    0% {
+        -webkit-transform: rotate(0deg)
+    }
+    100% {
+        -webkit-transform: rotate(360deg)
+    }
+}
+
+@-moz-keyframes minhand {
+    0% {
+        -moz-transform: rotate(0deg)
+    }
+    100% {
+        -moz-transform: rotate(360deg)
+    }
+}
+
+@keyframes minhand {
+    0% {
+        transform: rotate(0deg)
+    }
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+@-webkit-keyframes hrhand {
+    0% {
+        -webkit-transform: rotate(0deg)
+    }
+    100% {
+        -webkit-transform: rotate(360deg)
+    }
+}
+
+@-moz-keyframes hrhand {
+    0% {
+        -moz-transform: rotate(0deg)
+    }
+    100% {
+        -moz-transform: rotate(360deg)
+    }
+}
+
+@keyframes hrhand {
+    0% {
+        transform: rotate(0deg)
+    }
+    100% {
+        transform: rotate(360deg)
+    }
+}
+
+.my_overlay {
+    position: fixed!important;
+    width: 100%!important;
+    height: 100%!important;
+    top: 0!important;
+    left: 0!important;
+    right: 0!important;
+    bottom: 0!important;
+    background-color: rgba(0, 0, 0, .5)!important;
+    z-index: 9999!important;
+    display: table;
+}
+
+div.load {
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+}
+.hide{
+    display: none;
+}

@@ -1,0 +1,329 @@
+[26-Mar-2022 14:59:59 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 15:19:08 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 15:20:40 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 15:21:09 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 15:21:35 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 15:21:55 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 15:31:22 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 15:49:38 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 15:52:13 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:17:07 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:18:01 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:19:16 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:20:29 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:21:45 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:22:57 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:23:10 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:23:43 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:24:13 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:25:30 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:25:41 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:26:34 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:27:22 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:28:20 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:29:21 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:31:19 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:32:55 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:33:24 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:35:41 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:48:37 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 16:51:53 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[26-Mar-2022 21:22:50 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:12:46 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:14:50 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:15:15 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:17:47 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:27:05 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:49:46 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:50:54 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:51:59 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:52:45 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:52:55 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:53:27 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:55:24 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 02:59:15 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 03:00:59 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[27-Mar-2022 03:02:49 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
+[29-Mar-2022 23:24:09 Asia/Kolkata] PHP Fatal error:  Uncaught CodeIgniter\Format\Exceptions\FormatException: Failed to parse json string, error: "Type is not supported". in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php:42
+Stack trace:
+#0 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php(42): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Type is not sup...')
+#1 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(423): CodeIgniter\Format\JSONFormatter->format(Array)
+#2 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/API/ResponseTrait.php(114): CodeIgniter\Debug\Exceptions->format(Array)
+#3 /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Debug/Exceptions.php(141): CodeIgniter\Debug\Exceptions->respond(Array, 500)
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorExce in /home/sqze49t0p1qk/public_html/pink7.vtddmc.com/vendor/codeigniter4/framework/system/Format/JSONFormatter.php on line 42
